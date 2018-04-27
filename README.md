@@ -3,13 +3,13 @@
 Coding exercises and Problem Sets for MITx: 6.00.1x Introduction to Computer Science and Programming Using Python, EdX, 2018-04-24
 
 ## Point
-* This is a hard course.It is easy to get discouraged, but don't!
-
-## Refenrence
+`This is a hard course.It is easy to get discouraged, but don't!`
+ 
+## Reference
 Documentation
 
 * [Official Python 3 Documentation] (https://docs.python.org/3/library/index.html)
-  "official"/technical explanation of what a particular function/operator does, examples of correct syntax, what the various libraries are, etc.
+    - "official"/technical explanation of what a particular function/operator does, examples of correct syntax, what the various libraries are, etc.
 
 Textbooks/Tutorials
 

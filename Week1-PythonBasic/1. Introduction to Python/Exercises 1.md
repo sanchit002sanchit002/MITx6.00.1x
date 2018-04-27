@@ -1,9 +1,9 @@
-"""
+
 Exercises 1
 4/4 points (graded)
 ESTIMATED TIME TO COMPLETE: 4 minutes 
 Note that you will have to answer all questions before you can click the Check button.
-"""
+
 
 * 1 What is the difference between an Algorithm and a Program?
     - An algorithm is a conceptual idea, a program is a concrete instantiation of an algorithm.

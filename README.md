@@ -1,2 +1,1 @@
-# MITx6.00.1x
-mitx, edx, computer-science ,python
+Coding exercises and Problem Sets for MITx: 6.00.1x Introduction to Computer Science and Programming Using Python, EdX, 2018-04-24

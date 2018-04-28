@@ -10,6 +10,13 @@ You should use the square procedure that you defined in an earlier exercise (you
 This function takes in one number and returns one number.
 """
 
+
+def square(x):
+    '''
+    x: int or float.
+    '''
+    return x**2 
+
 def fourthPower(x):
     '''
     x: int or float.

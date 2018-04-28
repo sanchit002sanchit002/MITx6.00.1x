@@ -72,10 +72,3 @@ applyToEach(testList, square)
 print (testList)
 
 
-
-
-
-
-def square(a):
-    return a * a
-applyToEach(testList, square)
